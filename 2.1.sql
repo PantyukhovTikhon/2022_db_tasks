@@ -1,0 +1,1 @@
+select * from film where release_year < 1980

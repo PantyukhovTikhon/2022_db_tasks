@@ -1,0 +1,1 @@
+select category from film_list where actors like '%Matthew Johansson%' group by category
